@@ -1,2 +1,10 @@
+lib/__pycache__/
+lib/ops/__pycache__/
+**/.pyc
 /Cached/
+Model/__pycache__/
 /Model/Legacy/
+Data/
+logs/
+output/
+
